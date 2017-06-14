@@ -1,1 +1,1 @@
-# ese
+# ESE - Educational Software Evaluator
